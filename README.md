@@ -8,9 +8,9 @@ This simple Python script extracts the username and domain from a given email ad
 
 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
-𝟏) 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 𝐄𝐱𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧: Retrieves the part of the email before the @ symbol.
+𝟏) 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 𝐄𝐱𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧: Retrieves the part of the email before the '@' symbol.
 
-𝟐) 𝐃𝐨𝐦𝐚𝐢𝐧 𝐄𝐱𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧: Retrieves the part of the email after the @ symbol.
+𝟐) 𝐃𝐨𝐦𝐚𝐢𝐧 𝐄𝐱𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧: Retrieves the part of the email after the '@' symbol.
 
 𝟐) 𝐃𝐨𝐦𝐚𝐢𝐧 𝐄𝐱𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧: Prompts the user to enter their email address and processes it in real-time.
 
